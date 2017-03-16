@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xwikidoc version="1.1">
+  <web>MediaShare</web>
+  <name>ShareButtonsMacro</name>
+  <language/>
+  <defaultLanguage/>
+  <parent>Main.WebHome</parent>
+  <translation>0</translation>
+  <creator>xwiki:XWiki.Admin</creator>
+  <creationDate>1489582556000</creationDate>
+  <author>xwiki:XWiki.Admin</author>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <date>1489582678000</date>
+  <contentUpdateDate>1489582557000</contentUpdateDate>
+  <version>1.1</version>
+  <title/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/2.1</syntaxId>
+  <hidden>false</hidden>
+  <content/>
+  <attachment>
+    <filename>email.png</filename>
+    <author>xwiki:XWiki.PePe</author>
+    <date>1489580781000</date>
+    <version>1.2</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAPFBMVEVmnEFmnEFmnEFmnEFmnEFmnEFpnkRmnEFmnEFmnEH///9elzfF2rfm7+CMtXCfwYd6qVrX5c33+vW40aajqv5hAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+EDDwwWMtNaFTIAAACySURBVFjD7ZXRDoMwCEV9Ni0U+P9/Xc1WrWKFzZfFcF6amN5jC0SnKQiC4JkUSR7KWDC7gPERkB15ubxEsuIEVh3SrfgC0Cie0dkNzD/GYd2jq8miNp0ItksW2Sta86GW6FLQKZKu3fuZIejeRof451SmYOZNwUx4vJQtWErWBr6tXU08gqrAYWN9gr7vuB8tr6Ap1GT6BVWRRA/2N4JTQvDfgsJ3P+tA2QbjDxwEwVN5AUY9JnJF3UVFAAAAAElFTkSuQmCC</content>
+    <filesize>360</filesize>
+  </attachment>
+  <attachment>
+    <filename>facebook.png</filename>
+    <author>xwiki:XWiki.PePe</author>
+    <date>1489581762000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAPFBMVEU8W5s8W5s8W5s8W5s8W5s8W5s8W5s8W5s8W5v///8zVJdDYZ/2+Pvp7PRYc6pIZqKFmcGpt9Ti5/HP1+cuAGszAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+EDDwwfCMSUd8kAAACcSURBVFjD7dbBDoAgCAbgrjRQwPd/12xpax5awlaH+G8e/IaizmV1ZgkggN8A+YgNyFyUcI9mC8AEPWgBEp7zgSxAAR/A4ATkClj2oK8ApYYNbdQGsPUg6X3xjwFavcA3FXDdeLw0QWQSQBiik4COQPEC8jZAIzB7lLU+Qi4g1bQqkPdB/uIu9ApSAAEEEEB7zcwAt8RXN4AAHmQDh4WhiPYgPegAAAAASUVORK5CYII=</content>
+    <filesize>338</filesize>
+  </attachment>
+  <attachment>
+    <filename>google.png</filename>
+    <author>xwiki:XWiki.PePe</author>
+    <date>1489581763000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAUVBMVEX2Pij2Pij2Pij2Pij2Pij3Qiz2Pij2Pij2Pij2Pij2Pij2Pij////2NyD2OyT2Mhr3UTz/9PP5b1/9087+3dn9wLn4Wkj6hXf7nJH8rKP+5+VV99eFAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+EDDwwfJYFLK7wAAAGLSURBVFjD7ZbLjoMwDEW76YrQOLaTOPz/h06c0PIYqeB2M9LgDQiUIz/uNdz8l3G7ABfgAvxpAErsQUTyfAixnATkyc0RYsnwfJzcdAqQ2E0ZkihgyqsX4PgMAIMLyY+j3tTIVgDU9MUPNXxWAFkBpR7CUQHDSNqFZASwnumAngLq0VQD0HFq8Q4AYQGM6QmIbhP5DSCFpYQHhBkgpMEutCvhQQZzEzvA3APV0HR/tBKw3kfrFFq58xxlrsAEwKbg2qax9UPsSmyzcxFT3p0/C/DILyvlbYNPmqmbWaexdy+iYaHQdgL2jUS/JGcEdDPLxwCArv/4AQBy4fAyTrQCoFQxTyUjVs4Zwt6N6gW5e91pfhC3FfMxQBda7X3zUrVjk2WxAMpi5r6U4mYrHgN0ocFjBajeYgNANwgPK4CuBDICwn2dgRh7wK2HSwLaVNMUdG4B/bxUPdBhBXsd6BiDQBWBH0E/sgxGITX1BSqlkOo5gtkLwssXhPJHbswlEjNFwesv7QJcgH8F+AG6o/EjLD2L3QAAAABJRU5ErkJggg==</content>
+    <filesize>598</filesize>
+  </attachment>
+  <attachment>
+    <filename>linkedin.png</filename>
+    <author>xwiki:XWiki.PePe</author>
+    <date>1489581764000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAQlBMVEUBc7IBc7IAc7IBc7IBc7IBc7IBc7IBc7IBc7L///8AbK4AcLFcps42kMIihb3I4e/1+fwQe7dysdXl8fijzOOFvNqTtQILAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+EDDwwgCwVDDE8AAADASURBVFjD7dbbCsMgDADQvkZMIkb//1eHq27dsM4LpQySNyk5qInazSzGpoACCtQBRFwBvAAA4zQQ4RkOZwG3AxAmAcz5IHcBVJbAt22iiWkOgguNRNbiX58Fm4OOg7QwzyLCEX8BnMvoU1JpCjS+lLfSog2gZFGEdzANAy7AMXh8Bl8RVwE3AbgQg7xGdhjYN47rlegAhFpHtQPw+WOoXhYdQGk/uwqgAgooMAfACeAaAJ48LJ/Pjv6pKqDAFcADBeqiyVA3SMAAAAAASUVORK5CYII=</content>
+    <filesize>380</filesize>
+  </attachment>
+  <attachment>
+    <filename>pinterest.png</filename>
+    <author>xwiki:XWiki.PePe</author>
+    <date>1489581764000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAATlBMVEXLICfLICfLICfLICfLICfLICfLICfLICfLICf////LICfJFBvKGyLPLzX77e743d7fdXrTQEbbYmfwu73rqavkiIzXUljomJv++Pj0zM6tW7WAAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+EDDwwgJdmVAYAAAAG+SURBVFjD7ZZJjsQgDEWzRS2BMZjh/hftNENwEghU9TZelVLwZP9vDNvPP2N7AS/gBcwAjoySe6hoQX8OICVYSOM+A5AU1zB6HaCj6ESAVQBK0Q+7BgAxDLMCwMCk8wRANoYx4QbQNf9gsX08RKUpoOqnLr6Z8t1NAHTWSyNisc8X8ARQUvVpt0/NFBRxAjwCiGnFminXY3opXACqrbGnVv6rQ2cz8AHgWpaQsz/1kO2009apQFYx9qWuuBJSi3Rq2Dpe2ZKAYUmlxHMNQY8B8ajAHJZLJr66i7B1THR5qToZSw0AK4D9V+S68gw+AxDToPw/BQAvobrAGuEBoA4XqGRSK1DNxicRTeuDmAG1As9Ow4ONvq2mg9O8V40/AGCT3OQ+UqyTsTeVtu5pFt7JrJVl3Rt75/kC4EfQVVmC5fXJx+Os2UStn8pIAi7neCLZ0wjXeJt1Uk+G6jGGKI34UrA2YjCWb4BqRGqXvezoAfzDxXC/WLhWtztSrVxtWYZ0lMJ1v166XH1tHZzv71/vILNbdnq1jh4Yu+ieO5JEoY+eOIDnBKT/4pVmSgZBWfjymecQAJ1+n7ov4AXM4xebv7OOBhGleQAAAABJRU5ErkJggg==</content>
+    <filesize>646</filesize>
+  </attachment>
+  <attachment>
+    <filename>print.png</filename>
+    <author>xwiki:XWiki.PePe</author>
+    <date>1489581765000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAP1BMVEViZl5iZl5iZl5iZl5iZl5iZl5iZl5iZl5iZl5iZl7////3+Pfu7u2Qk42ZnJfQ0c+ChX9ucmuho568vrvi4+JO8wlQAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+EDDwwhBfvgEAkAAACvSURBVFjD7dbBDsIgDIBhrrZQCOX9n1VN9bJSpC4zMel/ZftCBttIKYqiy2LMqMq5bwMVHpcfA6j7MwBuKnYAFeimIvQAXQM9ABfA3wOy5MYMhoyu7h+yawGnAMgoLwgEyQCkSjaQ3wCdBbjQMfYAywL4DyAXo7wJDPNV+SFQ9H+huADSz24LwLPAhxm8VqHYQOdn3QJkuO18VueAowCmALmAog9JLfkEVZw9o+ji7sfNL9ZgYzGEAAAAAElFTkSuQmCC</content>
+    <filesize>360</filesize>
+  </attachment>
+  <attachment>
+    <filename>twitter.png</filename>
+    <author>xwiki:XWiki.PePe</author>
+    <date>1489581766000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAPFBMVEUtquEtquEtquEtquEtquEtquEtquEtquEtquH///8tquEjp+B6yu1cvui54/ZJtubu+f2b1/HZ8Po5r+OG9ZCDAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+EDDwwhHnGF2eUAAAEVSURBVFjD7ZbdksMgCIV764R/3v9d124n040S0e1lPbcJ38ARwcfxoR4bsAEb8GUAZv4AwGpSxPTFQB4CwLt4kPKSwOFI5iMAF+riy1s1kwLDEurf1CIvqlmgDwBaWgJdAQRGRwIohrcJPL96CihFOXIgim8BeJZ6IloAZX1gf6p9utUCIANcAoSUFgF+unCnDKAENARgBiiJOAFgEm/H/CmEohSAix728wBG8cITAwVtpYIA4KwyfYgRQEUWEggAvNBF8VC9tVFnpzLMNtHtWEcKbDBf2QsOkrfACNA1g6xsJu+vtPHcbkRA0MAA9cnlyuE0IVzYznWRNsUPw0MPUMl+qxAjRf/f+8CxivcbaQM24KsAPzQTra0pQnOrAAAAAElFTkSuQmCC</content>
+    <filesize>459</filesize>
+  </attachment>
+  <object>
+    <name>MediaShare.ShareButtonsMacro</name>
+    <number>0</number>
+    <className>XWiki.StyleSheetExtension</className>
+    <guid>7921010e-67ef-4a1e-8726-bbc5cffe8e2e</guid>
+    <class>
+      <name>XWiki.StyleSheetExtension</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <cache>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>0</multiSelect>
+        <name>cache</name>
+        <number>5</number>
+        <prettyName>Caching policy</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <separators> ,|</separators>
+        <size>1</size>
+        <unmodifiable>0</unmodifiable>
+        <values>long|short|default|forbid</values>
+        <classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
+      </cache>
+      <code>
+        <disabled>0</disabled>
+        <name>code</name>
+        <number>2</number>
+        <prettyName>Code</prettyName>
+        <rows>20</rows>
+        <size>50</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </code>
+      <contentType>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>0</multiSelect>
+        <name>contentType</name>
+        <number>6</number>
+        <prettyName>Content Type</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <separators> ,|</separators>
+        <size>1</size>
+        <unmodifiable>0</unmodifiable>
+        <values>CSS|LESS</values>
+        <classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
+      </contentType>
+      <name>
+        <disabled>0</disabled>
+        <name>name</name>
+        <number>1</number>
+        <prettyName>Name</prettyName>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </name>
+      <parse>
+        <disabled>0</disabled>
+        <displayFormType>select</displayFormType>
+        <displayType>yesno</displayType>
+        <name>parse</name>
+        <number>4</number>
+        <prettyName>Parse content</prettyName>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.BooleanClass</classType>
+      </parse>
+      <use>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>0</multiSelect>
+        <name>use</name>
+        <number>3</number>
+        <prettyName>Use this extension</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <separators> ,|</separators>
+        <size>1</size>
+        <unmodifiable>0</unmodifiable>
+        <values>currentPage=Always on this page|onDemand=On demand|always=Always on this wiki</values>
+        <classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
+      </use>
+    </class>
+    <property>
+      <cache>long</cache>
+    </property>
+    <property>
+      <code>#share-buttons img, .stButton input {
+width: 22px;
+border: 0;
+box-shadow: 0;
+display: inline;
+margin-bottom:2px;
+padding: 0;
+vertical-align: bottom;
+border-radius: 3px;
+}
+#share-buttons img:hover, .stButton input:hover {
+margin-bottom:0;
+}
+#share-buttons a{
+text-decoration: none;
+}</code>
+    </property>
+    <property>
+      <contentType>CSS</contentType>
+    </property>
+    <property>
+      <name/>
+    </property>
+    <property>
+      <parse/>
+    </property>
+    <property>
+      <use>onDemand</use>
+    </property>
+  </object>
+  <object>
+    <name>MediaShare.ShareButtonsMacro</name>
+    <number>0</number>
+    <className>XWiki.WikiMacroClass</className>
+    <guid>3b61a8d1-15f1-46c3-a284-d13080775665</guid>
+    <class>
+      <name>XWiki.WikiMacroClass</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <code>
+        <disabled>0</disabled>
+        <name>code</name>
+        <number>9</number>
+        <prettyName>Macro code</prettyName>
+        <rows>20</rows>
+        <size>40</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </code>
+      <contentDescription>
+        <disabled>0</disabled>
+        <name>contentDescription</name>
+        <number>8</number>
+        <prettyName>Content description (Not applicable for "No content" type)</prettyName>
+        <rows>5</rows>
+        <size>40</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </contentDescription>
+      <contentType>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>0</multiSelect>
+        <name>contentType</name>
+        <number>7</number>
+        <prettyName>Macro content type</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator>|</separator>
+        <separators>|</separators>
+        <size>1</size>
+        <unmodifiable>0</unmodifiable>
+        <values>Optional|Mandatory|No content</values>
+        <classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
+      </contentType>
+      <defaultCategory>
+        <disabled>0</disabled>
+        <name>defaultCategory</name>
+        <number>4</number>
+        <prettyName>Default category</prettyName>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </defaultCategory>
+      <description>
+        <disabled>0</disabled>
+        <name>description</name>
+        <number>3</number>
+        <prettyName>Macro description</prettyName>
+        <rows>5</rows>
+        <size>40</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </description>
+      <id>
+        <disabled>0</disabled>
+        <name>id</name>
+        <number>1</number>
+        <prettyName>Macro id</prettyName>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </id>
+      <name>
+        <disabled>0</disabled>
+        <name>name</name>
+        <number>2</number>
+        <prettyName>Macro name</prettyName>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </name>
+      <supportsInlineMode>
+        <disabled>0</disabled>
+        <displayFormType>select</displayFormType>
+        <displayType>yesno</displayType>
+        <name>supportsInlineMode</name>
+        <number>5</number>
+        <prettyName>Supports inline mode</prettyName>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.BooleanClass</classType>
+      </supportsInlineMode>
+      <visibility>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>0</multiSelect>
+        <name>visibility</name>
+        <number>6</number>
+        <prettyName>Macro visibility</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator>|</separator>
+        <separators>|</separators>
+        <size>1</size>
+        <unmodifiable>0</unmodifiable>
+        <values>Current User|Current Wiki|Global</values>
+        <classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
+      </visibility>
+    </class>
+    <property>
+      <code>{{velocity}}
+#set ($discard = $xwiki.ssx.use("$!{doc.getWiki()}:MediaShare.ShareButtonsMacro"))
+#set($mediaParameter = $xcontext.macro.params.media.split(','))
+#foreach($item in $mediaParameter)
+  #set($zerocount = $velocityCount - 1)
+  #set($mediaParameter[$zerocount] = $item.trim())
+#end
+#set($emailImg = $xcontext.getURLFactory().createAttachmentURL("email.png", "MediaShare", "ShareButtonsMacro", "download", "", "$doc.getWiki()", $context.context))
+#set($facebookImg = $xcontext.getURLFactory().createAttachmentURL("facebook.png", "MediaShare", "ShareButtonsMacro", "download", "", "$doc.getWiki()", $context.context))
+#set($googleImg = $xcontext.getURLFactory().createAttachmentURL("google.png", "MediaShare", "ShareButtonsMacro", "download", "", "$doc.getWiki()", $context.context))
+#set($linkedinImg = $xcontext.getURLFactory().createAttachmentURL("linkedin.png", "MediaShare", "ShareButtonsMacro", "download", "", "$doc.getWiki()", $context.context))
+#set($pinterestImg = $xcontext.getURLFactory().createAttachmentURL("pinterest.png", "MediaShare", "ShareButtonsMacro", "download", "", "$doc.getWiki()", $context.context))
+#set($twitterImg = $xcontext.getURLFactory().createAttachmentURL("twitter.png", "MediaShare", "ShareButtonsMacro", "download", "", "$doc.getWiki()", $context.context))
+#set($printImg = $xcontext.getURLFactory().createAttachmentURL("print.png", "MediaShare", "ShareButtonsMacro", "download", "", "$doc.getWiki()", $context.context))
+#set($pinterestMedia = $xcontext.macro.params.pinterestMedia)
+
+{{html clean="false"}}
+
+&lt;div id="share-buttons"&gt;
+#if($mediaParameter.contains('email') || $mediaParameter.contains('all'))
+  &lt;!-- Email --&gt;
+  #set($mailSubject = $xcontext.macro.params.mailContent)
+  &lt;a href="mailto:?Subject=$!{doc.title}&amp;amp;Body=$!{mailSubject} $!{escapetool.url($doc.getExternalURL())}"&gt;
+    &lt;img src="$!{emailImg}" alt="Email" /&gt;
+  &lt;/a&gt;
+  #end
+  #if($mediaParameter.contains('facebook') || $mediaParameter.contains('all'))
+  &lt;!-- Facebook documented at https://developers.facebook.com/docs/plugins/share-button/--&gt;
+  &lt;a href="http://www.facebook.com/sharer.php?u=$!{escapetool.url($doc.getExternalURL())}" target="_blank"&gt;
+    &lt;img src="$!{facebookImg}" alt="Facebook" /&gt;
+  &lt;/a&gt;
+  #end
+  #if($mediaParameter.contains('googleplus') || $mediaParameter.contains('all'))
+  &lt;!-- Google+ documented at https://developers.google.com/+/web/share/#sharelink --&gt;
+  &lt;a href="https://plus.google.com/share?url=$!{escapetool.url($doc.getExternalURL())}" target="_blank"&gt;
+    &lt;img src="$!{googleImg}" alt="Google" /&gt;
+  &lt;/a&gt;
+  #end
+  #if($mediaParameter.contains('linkedin') || $mediaParameter.contains('all'))
+  &lt;!-- LinkedIn documented at https://developer.linkedin.com/docs/share-on-linkedin --&gt;
+  &lt;a href="http://www.linkedin.com/shareArticle?mini=true&amp;amp;url=$!{escapetool.url($doc.getExternalURL())}" target="_blank"&gt;
+    &lt;img src="$!{linkedinImg}" alt="LinkedIn" /&gt;
+  &lt;/a&gt;
+  #end
+  #if($mediaParameter.contains('pinterest') || $mediaParameter.contains('all'))
+  &lt;!-- Pinterest documentation from https://developers.pinterest.com/docs/widgets/save/ and button code and js from https://developers.pinterest.com/tools/widget-builder/?type=pinit&amp;round=false&amp;tall=false&amp;buttonType=anyImage--&gt;
+  &lt;a data-pin-do="buttonBookmark" data-pin-save="true" data-pin-custom='true'  href="http://pinterest.com/pin/create/button/?url=$!{escapetool.url($doc.getExternalURL())}&amp;media=$!{pinterestMedia}&amp;description=$!{doc.title}" target="_blank"&gt;
+    &lt;img src="$!{pinterestImg}" alt="Pinterest" /&gt;
+  &lt;/a&gt;
+  ##&lt;script async defer src="//assets.pinterest.com/js/pinit.js"&gt;&lt;/script&gt;
+  #end
+  #if($mediaParameter.contains('twitter') || $mediaParameter.contains('all'))
+  &lt;!-- Twitter documentation from https://dev.twitter.com/web/tweet-button/web-intent --&gt;
+  &lt;a href="https://twitter.com/share?url=$!{escapetool.url($doc.getExternalURL())};text=$!{xcontext.macro.params.twitterText};hashtags=$!{xcontext.macro.params.hashtags}" target="_blank"&gt;
+    &lt;img src="$!{twitterImg}" alt="Twitter" /&gt;
+  &lt;/a&gt;
+  #end
+  #if($mediaParameter.contains('print') || $mediaParameter.contains('all'))
+  &lt;!-- Print --&gt;
+  &lt;form method="get" action="$doc.getURL('export')" class="xformInline" style="display: inline;"&gt;
+    &lt;input type="hidden" name="format" value="pdf" /&gt;
+    &lt;input type="hidden" name="pdfcover" value="0" /&gt;
+    &lt;input type="hidden" name="pdftoc" value="0" /&gt;
+    &lt;input type="hidden" name="comments" value="0" /&gt;
+    &lt;input type="hidden" name="attachments" value="0" /&gt;
+    &lt;span class="stButton"&gt;
+      &lt;input type="image" src="$!{printImg}" alt="pdfexport" class="stLarge" /&gt;
+    &lt;/span&gt;
+  &lt;/form&gt;     
+  #end
+&lt;/div&gt;
+{{/html}}
+{{/velocity}}</code>
+    </property>
+    <property>
+      <contentDescription/>
+    </property>
+    <property>
+      <contentType>Optional</contentType>
+    </property>
+    <property>
+      <defaultCategory/>
+    </property>
+    <property>
+      <description>Share the page on social media.</description>
+    </property>
+    <property>
+      <id>shareon</id>
+    </property>
+    <property>
+      <name>Share page</name>
+    </property>
+    <property>
+      <supportsInlineMode>1</supportsInlineMode>
+    </property>
+    <property>
+      <visibility>Global</visibility>
+    </property>
+  </object>
+  <object>
+    <name>MediaShare.ShareButtonsMacro</name>
+    <number>0</number>
+    <className>XWiki.WikiMacroParameterClass</className>
+    <guid>18a51833-f5b4-4601-990d-1f07e0dd18cc</guid>
+    <class>
+      <name>XWiki.WikiMacroParameterClass</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <defaultValue>
+        <disabled>0</disabled>
+        <name>defaultValue</name>
+        <number>4</number>
+        <prettyName>Parameter default value</prettyName>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </defaultValue>
+      <description>
+        <disabled>0</disabled>
+        <name>description</name>
+        <number>2</number>
+        <prettyName>Parameter description</prettyName>
+        <rows>5</rows>
+        <size>40</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </description>
+      <mandatory>
+        <disabled>0</disabled>
+        <displayFormType>select</displayFormType>
+        <displayType>yesno</displayType>
+        <name>mandatory</name>
+        <number>3</number>
+        <prettyName>Parameter mandatory</prettyName>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.BooleanClass</classType>
+      </mandatory>
+      <name>
+        <disabled>0</disabled>
+        <name>name</name>
+        <number>1</number>
+        <prettyName>Parameter name</prettyName>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </name>
+    </class>
+    <property>
+      <defaultValue>all</defaultValue>
+    </property>
+    <property>
+      <description>where to share the page
+Can be: "facebook", "twitter", "pinterest", "linkedin", "googleplus", "email", "print, "all"
+If left empty, the default will be "all".
+</description>
+    </property>
+    <property>
+      <mandatory/>
+    </property>
+    <property>
+      <name>media</name>
+    </property>
+  </object>
+  <object>
+    <name>MediaShare.ShareButtonsMacro</name>
+    <number>1</number>
+    <className>XWiki.WikiMacroParameterClass</className>
+    <guid>874a97f8-08f5-4c57-baf7-2cfd93489484</guid>
+    <class>
+      <name>XWiki.WikiMacroParameterClass</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <defaultValue>
+        <disabled>0</disabled>
+        <name>defaultValue</name>
+        <number>4</number>
+        <prettyName>Parameter default value</prettyName>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </defaultValue>
+      <description>
+        <disabled>0</disabled>
+        <name>description</name>
+        <number>2</number>
+        <prettyName>Parameter description</prettyName>
+        <rows>5</rows>
+        <size>40</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </description>
+      <mandatory>
+        <disabled>0</disabled>
+        <displayFormType>select</displayFormType>
+        <displayType>yesno</displayType>
+        <name>mandatory</name>
+        <number>3</number>
+        <prettyName>Parameter mandatory</prettyName>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.BooleanClass</classType>
+      </mandatory>
+      <name>
+        <disabled>0</disabled>
+        <name>name</name>
+        <number>1</number>
+        <prettyName>Parameter name</prettyName>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </name>
+    </class>
+    <property>
+      <defaultValue/>
+    </property>
+    <property>
+      <description>The twitter text before the page link.</description>
+    </property>
+    <property>
+      <mandatory/>
+    </property>
+    <property>
+      <name>twitterText</name>
+    </property>
+  </object>
+  <object>
+    <name>MediaShare.ShareButtonsMacro</name>
+    <number>2</number>
+    <className>XWiki.WikiMacroParameterClass</className>
+    <guid>9f6a4d86-db56-4143-8f0b-3f1d601a989f</guid>
+    <class>
+      <name>XWiki.WikiMacroParameterClass</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <defaultValue>
+        <disabled>0</disabled>
+        <name>defaultValue</name>
+        <number>4</number>
+        <prettyName>Parameter default value</prettyName>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </defaultValue>
+      <description>
+        <disabled>0</disabled>
+        <name>description</name>
+        <number>2</number>
+        <prettyName>Parameter description</prettyName>
+        <rows>5</rows>
+        <size>40</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </description>
+      <mandatory>
+        <disabled>0</disabled>
+        <displayFormType>select</displayFormType>
+        <displayType>yesno</displayType>
+        <name>mandatory</name>
+        <number>3</number>
+        <prettyName>Parameter mandatory</prettyName>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.BooleanClass</classType>
+      </mandatory>
+      <name>
+        <disabled>0</disabled>
+        <name>name</name>
+        <number>1</number>
+        <prettyName>Parameter name</prettyName>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </name>
+    </class>
+    <property>
+      <defaultValue/>
+    </property>
+    <property>
+      <description>The hashtag if present will be place after the page link.</description>
+    </property>
+    <property>
+      <mandatory/>
+    </property>
+    <property>
+      <name>hashtags</name>
+    </property>
+  </object>
+  <object>
+    <name>MediaShare.ShareButtonsMacro</name>
+    <number>3</number>
+    <className>XWiki.WikiMacroParameterClass</className>
+    <guid>23e19f8b-c11b-48bc-ab8a-50bad4142505</guid>
+    <class>
+      <name>XWiki.WikiMacroParameterClass</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <defaultValue>
+        <disabled>0</disabled>
+        <name>defaultValue</name>
+        <number>4</number>
+        <prettyName>Parameter default value</prettyName>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </defaultValue>
+      <description>
+        <disabled>0</disabled>
+        <name>description</name>
+        <number>2</number>
+        <prettyName>Parameter description</prettyName>
+        <rows>5</rows>
+        <size>40</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </description>
+      <mandatory>
+        <disabled>0</disabled>
+        <displayFormType>select</displayFormType>
+        <displayType>yesno</displayType>
+        <name>mandatory</name>
+        <number>3</number>
+        <prettyName>Parameter mandatory</prettyName>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.BooleanClass</classType>
+      </mandatory>
+      <name>
+        <disabled>0</disabled>
+        <name>name</name>
+        <number>1</number>
+        <prettyName>Parameter name</prettyName>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </name>
+    </class>
+    <property>
+      <defaultValue/>
+    </property>
+    <property>
+      <description>Image you want to be associated with the articles shared.</description>
+    </property>
+    <property>
+      <mandatory/>
+    </property>
+    <property>
+      <name>pinterestMedia</name>
+    </property>
+  </object>
+  <object>
+    <name>MediaShare.ShareButtonsMacro</name>
+    <number>5</number>
+    <className>XWiki.WikiMacroParameterClass</className>
+    <guid>5f7da649-5cb3-41b6-aa3e-9c3da11d002a</guid>
+    <class>
+      <name>XWiki.WikiMacroParameterClass</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <defaultValue>
+        <disabled>0</disabled>
+        <name>defaultValue</name>
+        <number>4</number>
+        <prettyName>Parameter default value</prettyName>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </defaultValue>
+      <description>
+        <disabled>0</disabled>
+        <name>description</name>
+        <number>2</number>
+        <prettyName>Parameter description</prettyName>
+        <rows>5</rows>
+        <size>40</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </description>
+      <mandatory>
+        <disabled>0</disabled>
+        <displayFormType>select</displayFormType>
+        <displayType>yesno</displayType>
+        <name>mandatory</name>
+        <number>3</number>
+        <prettyName>Parameter mandatory</prettyName>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.BooleanClass</classType>
+      </mandatory>
+      <name>
+        <disabled>0</disabled>
+        <name>name</name>
+        <number>1</number>
+        <prettyName>Parameter name</prettyName>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </name>
+    </class>
+    <property>
+      <defaultValue/>
+    </property>
+    <property>
+      <description>Body of the email preceding the url you are sharing</description>
+    </property>
+    <property>
+      <mandatory/>
+    </property>
+    <property>
+      <name>mailContent</name>
+    </property>
+  </object>
+</xwikidoc>
