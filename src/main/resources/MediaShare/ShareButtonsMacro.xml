@@ -10,7 +10,7 @@
   <creationDate>1489582556000</creationDate>
   <author>xwiki:XWiki.Admin</author>
   <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
-  <date>1490967681000</date>
+  <date>1491209143000</date>
   <contentUpdateDate>1490254018000</contentUpdateDate>
   <version>1.1</version>
   <title/>
@@ -654,12 +654,13 @@ text-decoration: none;
     &lt;img src="$!{twitterImg}" alt="Twitter" /&gt;
   &lt;/a&gt;
   #end
+  $!{xcontext.macro.content.replace('{{html clean="false"}}','').replace('{{/html}}','')}
 &lt;/span&gt;
 {{/html}}
 {{/velocity}}</code>
     </property>
     <property>
-      <contentDescription/>
+      <contentDescription>You have the possibility to add your own buttons or extra bit of html along side the provided buttons.</contentDescription>
     </property>
     <property>
       <contentType>Optional</contentType>
